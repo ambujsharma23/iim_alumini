@@ -1,0 +1,294 @@
+﻿html,body,div,sectionh1,h2,h3,h4,h5,h6,p,label,span,header,footer{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{ width:100%; height:100%;}
+
+body{ font-family:arial; background:#c6c6c6;}
+
+#body-wrapper{
+	width:100%;
+	height:auto;
+	margin:0px;;
+	padding:20px 0 0 0;
+}
+
+.container {
+    background-color: #fff;
+}
+
+.header-row {
+    text-align: center;
+    margin-top: 10px;
+}
+
+p.survey-desc {
+    font-size: 13px; 
+    margin-bottom: 5px;
+}
+
+.red_border {
+    border-bottom: 3px solid rgb(240, 85, 35);
+    /*font-size: 20px;*/
+    line-height: 22px;
+    margin: 5px 0;
+    padding: 0 0 5px 0;
+}
+
+#aboutForm div.form-group {
+    margin-top: 10px;
+}
+
+textarea {
+    width: 90%;
+    height: 80px;
+}
+
+.mtb10 {
+    margin-top: 20px;
+}
+
+#submit {
+    margin: 20px;
+}
+
+#btn-submit {
+    height: 50px;
+    padding: 10px;
+   background-color: forestgreen;
+   color: white;
+}
+
+.footer-logo {
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.other_txtbox {
+    margin-top: 5px;
+}
+
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btn-submit {
+    border-radius: 10px;
+}
+
+/* Thank you page */
+
+.inner-wrapper {
+    font-family: Roboto,"Helvetica Neue",sans-serif, arial;
+    margin: 0 auto;
+}
+
+.thanks-note, .consent-note, .share-link {
+    text-align: center;
+}
+
+.rewards-note {
+    margin: 10px auto;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 90%;
+    font-family: roboto-bold;
+}
+
+.consent-form, .share-form {
+    width: 300px;
+    margin: 10px auto;
+}
+
+#share-select {
+    margin-bottom: 10px;
+}
+
+#txt-share-link {
+    float: left;
+}
+
+@media (min-width:1000px) {
+    .event-logo {
+        height: 100px;
+        width: 143px;
+    }
+    
+    .di-logo {
+        height: 180px;
+        width: 180px;
+        margin-top: -40px;
+        margin-left: -10px;
+    }
+
+    .jsm-logo{
+        height: 40px;
+        width: 120px;
+    }
+    
+    .ioda-logo {
+        margin-left: 250px;
+        height: 55px;
+        width: 80px;
+    }
+
+    .activation-partner-logo {
+        height: 60px;
+        width: 130px;
+    }
+
+    .footer-ioda p {
+        float: right;
+    }
+
+    .main-heading {
+        display: block;
+    }
+
+    .second-heading {
+        display: none;
+    }
+
+  
+    
+    .style_dd {
+        width: 180px;
+        height: 22px;
+        color: #8d8d8d;
+        border: 1px solid #d8d8d8;
+        padding: 0;
+        line-height: 22px;
+    }
+    
+    #dobMonth {
+        display: inline;
+        width: 85px;
+        margin-right: 3px;
+    }
+    
+    #dobYear {
+        display: inline;
+        width: 90px;
+    }
+
+    .inner-wrapper {
+        width: 700px;
+    }
+
+    .rewards-note {
+        width: 80%;
+    }
+}
+
+@media (max-width:1000px) {
+    .event-logo {
+        height: 100px;
+        width: 143px;
+    }
+    
+    .di-logo {
+        height: 180px;
+        width: 180px;
+        margin-top: -40px;
+        margin-left: -10px;
+    }
+
+    .jsm-logo{
+        height: 30px;
+        width: 90px;
+    }
+
+    .ioda-logo {
+        margin-left: 30px;
+        height: 40px;
+        width: 60px;
+    }
+
+    .activation-partner-logo {
+        height: 50px;
+        width: 100px;
+    }
+
+    .main-heading {
+        display: none;
+    }
+
+    .second-heading {
+        display: block;
+    }
+
+ 
+    
+    .style_dd {
+        width: 90%;
+        height: 22px;
+        color: #8d8d8d;
+        border: 1px solid #d8d8d8;
+        padding: 0;
+        line-height: 22px;
+    }
+    
+    #dobMonth {
+        display: inline;
+        width: 44%;
+        margin-right: 3px;
+    }
+    
+    #dobYear {
+        display: inline;
+        width: 44%;
+    }
+}
+
+@media (max-width: 400px) {
+    .event-logo {
+        height: 75px;
+        width: 100px;
+    }
+    
+    .di-logo {
+        height: 150px;
+        width: 150px;
+        margin-top: -40px;
+        margin-left: -20px;
+    }
+
+    .jsm-logo{
+        height: 30px;
+        width: 90px;
+    }
+
+    .ioda-logo {
+        margin-left: 0px;
+        height: 40px;
+        width: 60px;
+    }
+
+    .activation-partner-logo {
+        height: 40px;
+        width: 80px;
+    }
+
+    .main-heading {
+        display: none;
+    }
+
+    .second-heading {
+        display: block;
+    }
+
+    .survey-heading {
+        font-size: 20px;
+    }
+
+    h3.red_border {
+        font-size: 20px;
+    }
+}
