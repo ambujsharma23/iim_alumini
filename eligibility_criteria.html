@@ -20,21 +20,39 @@
             margin-bottom: 50px;
             min-height: 20px;
         }
-span{font-weight:normal!important;
-font-style: italic;
-}
-.logo {
-    max-height: 60px;
-}
-.py-1 {
-    padding-top: .25rem!important;
-    padding-bottom: .25rem!important;
-}'
+        span{font-weight:normal!important;
+        font-style: italic;
+        }
+        .logo {
+            max-height: 60px;
+        }
+        .py-1 {
+            padding-top: .25rem!important;
+            padding-bottom: .25rem!important;
+        }
     </style>
+    <script type="text/javascript">
+        function clickHome() {
+            window.open('http://paniimwmc.in/', '_blank');
+            
+        }
+
+        function clickNominate() {
+            window.open('http://www.paniimwmc.in/2017/digitalindia/awards/iim_alumni/index.php', '_self');
+        }
+    </script>
 </head>
 <body>
 
     <div id="body-wrapper">
+        <nav class="navbar navbar-default navbar-fixed-bottom">
+            <div class="container">
+                <div class="nav navbar-nav navbar-right" style="padding-bottom: 10px;">
+                    <button type="button" class="btn btn-success btn-md navbar-btn" onclick="clickHome()" style="margin-right: 20px;">Go to Home</button>
+                    <button type="button" class="btn btn-success btn-md navbar-btn" onclick="clickNominate()">Nominate Now</button>
+                </div>
+            </div>
+        </nav>
         <header class="container" style="padding:40px;">
             <div>
      <center>   <img src="images/logo-main.png" class="img img-responsive"></center>
@@ -111,7 +129,7 @@ A detailed quantitative methodology has been developed to fairly and accurately 
 <p>12. If entry or entries fail to meet the eligibility criteria set out, the entry or entires may be withdrawn from the awards competition. In the event of disqualification or withdrawal, startups will not be notified. </p>
 <p>13. Please also provide details like website address, Facebook, Linked In and Twitter. </p>
 <p>14. Please attach award(s) won in the last three years with respect to the startups </p>
-<p>15. Last date to submit Nomination for Startup Entrepreneurial Excellence Awards 2017 is November 20, 2017 (11.59 pm IST). </p>
+<p>15. Last date to submit Nomination for Startup Entrepreneurial Excellence Awards 2017 is November 25, 2017 (11.59 pm IST). </p>
 <p>16. The winners will be informed via email and will be felicitated during 5th Pan-IIM World Management Conference (December 14-16, 2017) in IIM Lucknow campus, Lucknow. (What about their travel and local hospitality)</p>
 <p><b>17. No travel and stay will be provided to the award winners by IIM for attending the award function and the winners will have to pay from their own pocket. 
 For queries related to nominations and submission process, please feel free to reach out to: Pravin Prashant, Consulting Managing Editor, 5th Pan-IIM World Management Conference 2017. E-mail: wmceditor@iiml.ac.in. Mobile: +91-9899004608</b></p>
@@ -119,5 +137,7 @@ For queries related to nominations and submission process, please feel free to r
         </div>
         </header>
         </div>
+
+        <script src="js/bootstrap.js" type="text/javascript"></script>
     </body>
 </html>

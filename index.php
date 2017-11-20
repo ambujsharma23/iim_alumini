@@ -69,7 +69,7 @@
                             Here is a link to the <a href="eligibility_criteria.html" target="_blank">eligibility criteria: </a>
                             <br> <br>
                             The deadline for submission of IIM Alumni Startup Entrepreneurial Excellence
-                            Awards 2017 award entries is <b>November 20, 2017. (11.59 PM IST),</b> ONLY ONLINE
+                            Awards 2017 award entries is <b>November 25, 2017. (11.59 PM IST),</b> ONLY ONLINE
                             ENTRIES ARE ACCEPTED. Entries received after the deadline will not be
                             considered.<br>
                             <span style="color:red;">* Required </span>
@@ -87,7 +87,7 @@
                             Here is a link to the <a href="eligibility_criteria.html" target="_blank">eligibility criteria: </a>
                             <br> <br>
                             The deadline for submission of IIM Alumni Startup Entrepreneurial Excellence
-                            Awards 2017 award entries is <b>November 20, 2017. (11.59 PM IST),</b> ONLY ONLINE
+                            Awards 2017 award entries is <b>November 25, 2017. (11.59 PM IST),</b> ONLY ONLINE
                             ENTRIES ARE ACCEPTED. Entries received after the deadline will not be
                             considered.<br>
                             <span style="color:red;">* Required </span>
