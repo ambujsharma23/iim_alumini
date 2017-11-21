@@ -634,7 +634,7 @@ $( document ).ready(function() {
                             <!-- comp -->
 
                         </div><div class="form-group">
-                            <label class="col-md-6">Please attach high resolution Picture(max file size 1 MB) for Founder and Co-founder of Startup(IIM Alumni) *</label>
+                            <label class="col-md-6">Please attach high resolution Picture(max file size 2 MB) for Founder and Co-founder of Startup(IIM Alumni) *</label>
 
                             <div class="col-md-6">
                                 <input type="file" value="Upload Image" name="photo_img[]" required="" multiple >
